@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Haolin Ye"
   avatar           : "profile.jpg"
-  bio              : "A bachelor student studing Computer Science and Mathematics at McGill University is interested in Machine Learning and Programming Language."
-  location         : "Montréal, CA"
-  employer         :
+  bio              : "Machine Learning Theory && Programming Language"
+  location         : "Montréal, Canada"
+  employer         : "McGill University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=vFImvb8AAAAJ"
-  email            :
+  email            : "haolin.ye@mail.mcgill.ca"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
