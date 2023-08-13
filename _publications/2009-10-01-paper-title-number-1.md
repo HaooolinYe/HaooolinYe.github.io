@@ -1,8 +1,10 @@
 ---
 title: "Novice Type Error Diagnosis with Natural Language Models"
 collection: publications
-permalink: https://link.springer.com/chapter/10.1007/978-3-031-21037-2_10
-excerpt: 'This paper proposes.'
+permalink: /publication/2022-11-25-Novice-Type-Error-Diagnosis-with-Natural-Language-Models
+excerpt: 'This paper proposes a variant of BERT developed by Google and fine-tuned to
+capture type errors made by human programmers when coding in OCaml. With this fine-tuning method, one can
+easily obtain similar models for other programming languages.'
 date: 2022-11-25
 venue: 'APLAS 2022'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
