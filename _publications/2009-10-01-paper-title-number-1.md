@@ -1,7 +1,7 @@
 ---
 title: "Novice Type Error Diagnosis with Natural Language Models"
 collection: publications
-permalink: /publication/2022-11-25-Novice-Type-Error-Diagnosis-with-Natural-Language-Models
+permalink: https://link.springer.com/chapter/10.1007/978-3-031-21037-2_10
 excerpt: 'This paper proposes.'
 date: 2022-11-25
 venue: 'APLAS 2022'
