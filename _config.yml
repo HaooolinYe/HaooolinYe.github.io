@@ -86,7 +86,7 @@ author:
   location         : "Montréal, Canada"
   employer         : "McGill University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=vFImvb8AAAAJ"
+  googlescholar    : #"https://scholar.google.com/citations?hl=en&user=vFImvb8AAAAJ"
   email            : "haolin.ye@mail.mcgill.ca"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
