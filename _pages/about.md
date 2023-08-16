@@ -20,5 +20,10 @@ redirect_from:
 ![mila](/images/Logo_Mila_horizontal.png){: .align-right width="100px"}
 🔬 I work as a student researcher at Mila AI Institute under the supervision of [Professor Xuejie Si](https://www.cs.toronto.edu/~six/) from 2022 - present.
 
-🐱‍💻 I led my team won the first price of [ENG WEEK Hackathon 2022](https://engweek.ca/) with a project named `Study-buddy at McGill`. It is an online real-time friend finder to reduce students’ anxiety and depression caused by the COVID-19 lockdown in 2022.
+
+
+💻 I led my team won the first price of [ENG WEEK Hackathon 2022](https://engweek.ca/). I am very fortune to participate in this competition with [Mike Zhang](https://www.linkedin.com/in/mikezhang08/?originalSubdomain=ca), Vivek Wu, and Xiang Li.
+
+# Awards
+🏆 I won the [USRA 2023](https://www.mcgill.ca/science/research/undergraduate-research/nserc)(Undergraduate Student Research Awards) under the supervision of [Professor Xuejie Si](https://www.cs.toronto.edu/~six/) and [Brigitte Pientka](https://www.cs.mcgill.ca/~bpientka/) with a project that leverages MaxSAT Solver to capture the minimum edit script between two `Tree` data structures.
 
