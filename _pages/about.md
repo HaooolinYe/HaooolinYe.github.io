@@ -13,7 +13,7 @@ redirect_from:
 
 📝 My research interests lie in formal methods and machine learning theory :)
 
-🧮 Geomery and mathematical optimization appeal to me as well!
+🧮 I also have a strong interest in geometry and mathematical optimization!
 
 # Experience
 
