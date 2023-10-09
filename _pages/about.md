@@ -1,5 +1,5 @@
 ---
-permalink: /homepage
+permalink: /
 title: "🙋🏻‍♂️ Hi, Haolin here!"
 excerpt: "About me"
 author_profile: true
