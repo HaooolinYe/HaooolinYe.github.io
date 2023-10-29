@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2022-11-25-Novice-Type-Error-Diagnosis-with-Natural-Language-Models
 excerpt: ''
 date: 2022-11-25
-venue: 'APLAS 2022'
+venue: 'APLAS'
 paperurl:
 citation: 'Geng, C., Ye, H., Li, Y., Han, T., Pientka, B., & Si, X. (2022, November). Novice Type Error Diagnosis with Natural Language Models. In Asian Symposium on Programming Languages and Systems (pp. 196-214). Cham: Springer Nature Switzerland.'
 ---

@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2023-10-27-An_Optimal_Structure-Aware_Code_Difference_Framework_with_MaxSAT-Solver
 excerpt: ''
 date: 2023-10-27
-venue: 'Splash 2023 Student Research Competition'
+venue: 'SRC@SPLASH'
 paperurl:
 citation: 'Ye, H. (2023). An Optimal Structure-Aware Code Difference Framework with MaxSAT-Solver. SPLASH Companion’23, 43.'
 ---
