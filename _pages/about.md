@@ -15,13 +15,14 @@ redirect_from:
 
 🧮 I also have a strong interest in **geometry** and **mathematical optimization**!
 
-# Experience
+# Experience 📖
 
 ![mila](/images/Logo_Mila_horizontal.png){: .align-right width="100px"}
 🔬 I work as a student researcher at **Mila AI Institute** under the supervision of [Professor Xuejie Si](https://www.cs.toronto.edu/~six/) from 2022 - present.
 
 💻 I had the privilege of leading my team to victory, securing the first prize at the [ENG WEEK Hackathon 2022](https://engweek.ca/). This incredible achievement was made possible through collaborative efforts with my talented teammates, [Mike Zhang](https://www.linkedin.com/in/mikezhang08/?originalSubdomain=ca), Vivek Wu, and Xiang Li.
 
-# Awards
-🏆 In 2023, I won the [USRA](https://www.mcgill.ca/science/research/undergraduate-research/nserc)(Undergraduate Student Research Awards) under the supervision of [Professor Brigitte Pientka](https://www.cs.mcgill.ca/~bpientka/) with a project that leverages a **MaxSAT Solver** to capture the *minimum edit script* between two `Tree` data structures.
-
+# Awards 🏆
+[MaxSAT-Diff](https://haooolinye.github.io/publication/2023-10-27-An_Optimal_Structure-Aware_Code_Difference_Framework_with_MaxSAT-Solver):
+  - [SPLASH 2023 SRC](https://2023.splashcon.org/track/splash-2023-SRC?plenary=Hide%20plenary%20sessions)(Student Research Competition) <strong> second place </strong>.
+  -  [USRA 2023](https://www.mcgill.ca/science/research/undergraduate-research/nserc)(Undergraduate Student Research Awards) under the supervision of [Professor Brigitte Pientka]
