@@ -23,5 +23,5 @@ redirect_from:
 💻 I had the privilege of leading my team to victory, securing the first prize at the [ENG WEEK Hackathon 2022](https://engweek.ca/). This incredible achievement was made possible through collaborative efforts with my talented teammates, [Mike Zhang](https://www.linkedin.com/in/mikezhang08/?originalSubdomain=ca), Vivek Wu, and Xiang Li.
 
 # Awards
-🏆 In 2023, I won the [USRA](https://www.mcgill.ca/science/research/undergraduate-research/nserc)(Undergraduate Student Research Awards) under the supervision of [Professor Xuejie Si](https://www.cs.toronto.edu/~six/) and [Professor Brigitte Pientka](https://www.cs.mcgill.ca/~bpientka/) with a project that leverages a **MaxSAT Solver** to capture the *minimum edit script* between two `Tree` data structures.
+🏆 In 2023, I won the [USRA](https://www.mcgill.ca/science/research/undergraduate-research/nserc)(Undergraduate Student Research Awards) under the supervision of [Professor Brigitte Pientka](https://www.cs.mcgill.ca/~bpientka/) with a project that leverages a **MaxSAT Solver** to capture the *minimum edit script* between two `Tree` data structures.
 
