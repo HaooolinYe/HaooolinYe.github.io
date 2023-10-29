@@ -4,7 +4,7 @@ collection: publications
 permalink: /workshop/2023-10-25-Scalar_Invariant_Networks_with_Zero_Bias
 excerpt: ''
 date: 2023-10-25
-venue: '[NeurReps Workshop](https://www.neurreps.org/), NeurIPS 2023'
+venue: 'NeurIPS Workshop'
 paperurl:
 citation: 'Geng, C., Xu, X., Ye, H., & Si, X. (2022). Scalar Invariant Networks with Zero Bias. arXiv preprint arXiv:2211.08486.'
 ---
