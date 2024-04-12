@@ -18,10 +18,9 @@ redirect_from:
 # Experience 📖
 
 ![mila](/images/Logo_Mila_horizontal.png){: .align-right width="100px"}
-🔬 I work as a student researcher at **Mila AI Institute** under the supervision of [Professor Xuejie Si](https://www.cs.toronto.edu/~six/) from 2022 - present.
+🔬 I work as a student researcher at **Mila AI Institute** from 2022 - present.
 
 # Awards 🏆
-1. [MaxSAT-Diff](https://haooolinye.github.io/publication/2023-10-27-An_Optimal_Structure-Aware_Code_Difference_Framework_with_MaxSAT-Solver):
-    - [SPLASH 2023 SRC](https://2023.splashcon.org/track/splash-2023-SRC?plenary=Hide%20plenary%20sessions)(Student Research Competition) <strong> second place </strong>.
-    -  [USRA 2023](https://www.mcgill.ca/science/research/undergraduate-research/nserc)(Undergraduate Student Research Awards) under the supervision of [Professor Brigitte Pientka](https://www.cs.mcgill.ca/~bpientka/)
-2. [ENG WEEK Hackathon 2022](https://engweek.ca/) first place
+1.  [SPLASH 2023 SRC](https://2023.splashcon.org/track/splash-2023-SRC?plenary=Hide%20plenary%20sessions)(Student Research Competition) <strong> second place </strong>.
+2.  [USRA 2023](https://www.mcgill.ca/science/research/undergraduate-research/nserc)(Undergraduate Student Research Awards) under the supervision of [Professor Brigitte Pientka](https://www.cs.mcgill.ca/~bpientka/)
+3. [ENG WEEK Hackathon 2022](https://engweek.ca/) first place
